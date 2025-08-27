@@ -1,0 +1,43 @@
+# =========================
+# ARCHIVOS GENERADOS POR MAVEN
+# =========================
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# =========================
+# ARCHIVOS GENERADOS POR INTELLIJ IDEA
+# =========================
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# =========================
+# ARCHIVOS LOGS Y TEMPORALES
+# =========================
+*.log
+*.tmp
+
+# =========================
+# ARCHIVOS DEL SISTEMA
+# =========================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Linux
+*~
+
+# =========================
+# ARCHIVOS PERSONALES Y VARIABLES DE ENTORNO
+# =========================
+*.env
